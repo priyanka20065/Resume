@@ -1,0 +1,149 @@
+<html>
+	<head>
+		
+		<title>Resume</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+       <style>
+        body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    max-width: 960px;
+    margin: auto;
+}
+h1 {
+    font-size: 3em;
+    letter-spacing: .6em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+h2 {
+    font-size: 1.5em;
+    padding-bottom: 1em;
+}
+
+h3 {
+    font-size: 1em;
+    padding-bottom: 1em;
+}
+
+main { 
+    display: grid;
+    grid-template-columns: 40% 60%;
+    margin-top: 3em;
+}
+header {
+    text-align: center;
+    margin: auto 2em;
+}
+
+section {
+    margin: auto 1em 4em 2em;
+}
+
+i {
+    margin-right: .5em;
+}
+
+p {
+    margin: .2em auto
+}
+
+hr {
+    border: none;
+    background-color: lightgray;
+    height: 1px;
+}
+
+h1, h2, h3 {
+    font-weight: 100;
+    margin-bottom: 0;
+}
+#mainLeft {
+    border-right: 1px solid lightgray;
+}
+       </style>
+	</head>
+
+	<body>
+		<header id="header">
+			
+			<h1>Priyanka Chaurasia</h1>
+			<hr>
+			Student
+			<hr>
+		</header>
+		<main>
+			<article id="mainLeft">
+				<section>
+					<h2>CONTACT</h2>
+					
+                    <p>
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                        <a href="mailto:priyanka2499.be23@chitkara.edu.in">priyanka2400.be23@chitkara.edu.in</a>
+                    </p>
+                    <p>
+                        <i class="fab fa-github" aria-hidden="true"></i>
+                        <a href="https://github.com/priyanka20065">gh-priyanka20065</a>
+                    </p>
+                    <p>
+                        <i class="fab fa-linkedin" aria-hidden="true"></i>
+                        <a href="https://www.linkedin.com/in/priyanka-chaurasia-566249299/">linkedin-Priyanka</a>
+                    </p>
+				</section>
+				<section>
+					<h2>SKILLS</h2>
+					
+                    <p>HTML, CSS, GitHub, Javascript,React,C,C++,Java, Sql,VS Code</p>
+				</section>
+				<section>
+					<h2>EDUCATION</h2>
+                    
+                    <p>
+                       I have done my schooling from Mount Carmel School, Chandigarh and currently pursuing my B.E in Computer Science Engineering from Chitkara University, Punjab.
+                    </p>
+                    <p>
+                        2018-2022
+                    </p>
+                    <h3>High School</h3>
+                    <p>
+                        Mount Carmel School, Chandigarh
+                 </p>
+				</section>            
+			</article>
+			<article id="mainRight">
+				<section>
+					<h2>ABOUT</h2>
+				
+					<p>I am a student at Chitkara University, Punjab, pursuing a Bachelor's degree in Computer Science Engineering. I am passionate about learning new technologies and developing my skills in web development.
+                         I am a quick learner and a team player, and I am always eager to take on new challenges.
+                          I am looking for opportunities to apply my skills and knowledge in a professional setting.</p>
+
+                    </p>
+				</section>
+				<section>
+					<h2>WORK EXPERIENCE</h2>
+					
+                    <h3>Internshala Student Ambesd</h3>
+                    <p>
+                        Jun 2024 - Aug 2024
+                        
+                        
+                    </p>
+                    <p>The Internshala Student Program was an incredibly rewarding experience. I acquired valuable skills in developing marketing strategies and planning, among other areas. Additionally, I had the honor of winning a prize and receiving a certificate from the event, further validating the knowledge and skills I gained. </p>
+                    <p>
+                            Describe what you did in this position with one summary sentence and no more than 3 bullet points with specific highlights
+                    </p>
+                    <h3>Ambassador Challenge: Azure Quest</h3>
+                    <p>May 2024 - May 2024</p>
+                    <p>The "Azure Quest" Cloud Skill Challenge is a learning program by Microsoft to help you learn about Microsoft Azure. It includes different tasks and modules to teach you about Azure services and technologies. By completing these modules, you can earn digital badges, certificates, and sometimes prizes.
+                        These modules are available on Microsoft Learn, which offers hands-on learning experiences. The challenge usually has a set timeframe, and you can complete as many modules as you want to learn more and earn recognition. I have won 1 year premium of LinkedIn worth $150. </p>
+                    <ul>
+                            <li>I also led a team of four volunteers and actively participated in various events and games related to web development, further enhancing my practical knowledge and teamwork skills.</li>
+                            
+                    </ul>
+				</section>
+			</article>
+		</main>
+	</body>
+</html>
